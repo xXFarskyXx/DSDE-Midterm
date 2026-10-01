@@ -1,0 +1,10 @@
+*.jpg
+*.txt
+/runs/optuna/augmentation
+/runs/optuna/encoder
+/runs/rfdetr_large
+*.yaml
+*.csv
+model/yolo26n.pt
+*.db
+/.vscode
